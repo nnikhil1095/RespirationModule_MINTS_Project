@@ -1,6 +1,6 @@
 # Respiration Module
 
-A standalone model of the Respiration module -- which can also be found in "Resp Tab" in the main Biometric Dashboard!
+This is a standalone model of the Respiration module as part of the MINTS Biometric Data Application (SENIOR PROJECT)
 
 ______________________________________________________________________________________________________________________________
 
@@ -40,6 +40,8 @@ How to Run:
 	1) Run SendData.py in a terminal
 
 	2) Run RM_Main.py in a different terminal.
+	
+	
   
   
 
